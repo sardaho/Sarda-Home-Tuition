@@ -978,8 +978,19 @@ section.footer{
 	.banner .banner-desc h2{
 		font-size: 32px;
 	}
+	
+.main-navbar{
+	width:100%;
+	margin:0px;
+	padding:0px;
+	justify-content: space-between;
+}
 	.main-navbar .get-started-btn-container{
-		display: none;
+		text-align: left;
+		padding:0px;
+	}
+	.get-started-btn{
+		padding:0px;
 	}
 	/* Partners Section */
 	.partners h3{
